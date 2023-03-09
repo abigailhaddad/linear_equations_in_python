@@ -136,3 +136,6 @@ print(results)
 
 And then when we called symbolSolvex_xy_y(47), we get the same set of
 answers as we did using the brute force/list comprehension function.
+
+
+## The PDF file of this and the .qmd file that quarto used to generate it are here: https://github.com/abigailhaddad/linear_equations_in_python/tree/main/qmd
