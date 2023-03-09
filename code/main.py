@@ -16,4 +16,4 @@ def renderAsDoc(qmd_folder, qmd_file, output_format):
 qmd_folder=r"C:\Users\abiga\OneDrive\Documents\PythonScripts\linear_equations\qmd"
 qmd_file="linear_equations.qmd"
     
-renderAsDoc(qmd_folder, qmd_file, "html")
+renderAsDoc(qmd_folder, qmd_file, "pdf")
